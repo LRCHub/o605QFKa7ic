@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "薄明光線",
+  "base_artist": "Chevon",
+  "createdAt": "2026-01-09T14:14:53.252306Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "薄明光線",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_薄明光線_Chevon.txt"
+    }
+  ]
+}
